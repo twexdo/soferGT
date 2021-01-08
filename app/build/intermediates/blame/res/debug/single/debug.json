@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view__map.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_view__map.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launch.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\ic_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anulare_comanda.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_anulare_comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bckground.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\bckground.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_black_24dp.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comenzi.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_comenzi.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\raw_silent.mp3.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\raw\\silent.mp3"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_action.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acceptat.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_acceptat.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_comanda.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\comanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sms.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_black_24dp.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\photo_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cancel.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\SoferGT\\app\\src\\main\\res\\drawable\\ic_cancel.xml"
+    }
+]

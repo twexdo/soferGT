@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GreenTaxiSofer</string>
+    <string name="nume">Nume</string>
+    <string name="nr_telefon">Nr. Telefon</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+</resources>

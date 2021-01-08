@@ -1,0 +1,107 @@
+com/adrian/sofergt/communication/Action.java
+ com.adrian.sofergt.communication.Action
+ com.adrian.sofergt.communication.Action$1
+ com.adrian.sofergt.communication.Action$2
+ com.adrian.sofergt.communication.Action$3
+ com.adrian.sofergt.communication.Action$4
+ com.adrian.sofergt.communication.Action$5
+ com.adrian.sofergt.communication.Action$6
+ com.adrian.sofergt.communication.Action$7
+ com.adrian.sofergt.communication.Action$8
+com/adrian/sofergt/ui/View_MapActivity.java
+ com.adrian.sofergt.ui.View_MapActivity
+ com.adrian.sofergt.ui.View_MapActivity$1
+com/adrian/sofergt/Comanda.java
+ com.adrian.sofergt.Comanda
+com/adrian/sofergt/ui/SettingsActivity.java
+ com.adrian.sofergt.ui.SettingsActivity
+ com.adrian.sofergt.ui.SettingsActivity$1
+ com.adrian.sofergt.ui.SettingsActivity$1$1
+ com.adrian.sofergt.ui.SettingsActivity$2
+ com.adrian.sofergt.ui.SettingsActivity$3
+ com.adrian.sofergt.ui.SettingsActivity$3$1
+ com.adrian.sofergt.ui.SettingsActivity$4
+ com.adrian.sofergt.ui.SettingsActivity$5
+ com.adrian.sofergt.ui.SettingsActivity$6
+ com.adrian.sofergt.ui.SettingsActivity$7
+ com.adrian.sofergt.ui.SettingsActivity$8
+com/adrian/sofergt/ui/RegisterActivity.java
+ com.adrian.sofergt.ui.RegisterActivity
+ com.adrian.sofergt.ui.RegisterActivity$1
+ com.adrian.sofergt.ui.RegisterActivity$2
+ com.adrian.sofergt.ui.RegisterActivity$3
+ com.adrian.sofergt.ui.RegisterActivity$4
+ com.adrian.sofergt.ui.RegisterActivity$5
+ com.adrian.sofergt.ui.RegisterActivity$6
+ com.adrian.sofergt.ui.RegisterActivity$7
+com/adrian/sofergt/MainActivity.java
+ com.adrian.sofergt.MainActivity
+ com.adrian.sofergt.MainActivity$1
+ com.adrian.sofergt.MainActivity$10
+ com.adrian.sofergt.MainActivity$11
+ com.adrian.sofergt.MainActivity$12
+ com.adrian.sofergt.MainActivity$13
+ com.adrian.sofergt.MainActivity$2
+ com.adrian.sofergt.MainActivity$3
+ com.adrian.sofergt.MainActivity$4
+ com.adrian.sofergt.MainActivity$5
+ com.adrian.sofergt.MainActivity$6
+ com.adrian.sofergt.MainActivity$7
+ com.adrian.sofergt.MainActivity$8
+ com.adrian.sofergt.MainActivity$9
+com/adrian/sofergt/PermissionsListenerClass.java
+ com.adrian.sofergt.PermissionsListenerClass
+ com.adrian.sofergt.PermissionsListenerClass$1
+ com.adrian.sofergt.PermissionsListenerClass$2
+ com.adrian.sofergt.PermissionsListenerClass$3
+com/adrian/sofergt/Variables.java
+ com.adrian.sofergt.Variables
+com/adrian/sofergt/communication/Acceptat.java
+ com.adrian.sofergt.communication.Acceptat
+ com.adrian.sofergt.communication.Acceptat$1
+ com.adrian.sofergt.communication.Acceptat$2
+ com.adrian.sofergt.communication.Acceptat$3
+ com.adrian.sofergt.communication.Acceptat$4
+ com.adrian.sofergt.communication.Acceptat$4$1
+ com.adrian.sofergt.communication.Acceptat$4$2
+ com.adrian.sofergt.communication.Acceptat$4$3
+ com.adrian.sofergt.communication.Acceptat$5
+ com.adrian.sofergt.communication.Acceptat$5$1
+ com.adrian.sofergt.communication.Acceptat$5$2
+ com.adrian.sofergt.communication.Acceptat$5$3
+ com.adrian.sofergt.communication.Acceptat$6
+ com.adrian.sofergt.communication.Acceptat$6$1
+ com.adrian.sofergt.communication.Acceptat$6$2
+ com.adrian.sofergt.communication.Acceptat$6$3
+ com.adrian.sofergt.communication.Acceptat$7
+com/adrian/sofergt/services/CommonClass.java
+ com.adrian.sofergt.services.CommonClass
+com/adrian/sofergt/ComenziAdapter.java
+ com.adrian.sofergt.ComenziAdapter
+com/adrian/sofergt/objects/Sofer.java
+ com.adrian.sofergt.objects.Sofer
+com/adrian/sofergt/AnulareComanda.java
+ com.adrian.sofergt.AnulareComanda
+ com.adrian.sofergt.AnulareComanda$1
+ com.adrian.sofergt.AnulareComanda$2
+ com.adrian.sofergt.AnulareComanda$3
+com/adrian/sofergt/services/FMessagingService.java
+ com.adrian.sofergt.services.FMessagingService
+com/adrian/sofergt/CounterClass.java
+ com.adrian.sofergt.CounterClass
+com/adrian/sofergt/services/MainService.java
+ com.adrian.sofergt.services.MainService
+ com.adrian.sofergt.services.MainService$1
+ com.adrian.sofergt.services.MainService$2
+ com.adrian.sofergt.services.MainService$LocalBinder
+com/adrian/sofergt/BuildConfig.java
+ com.adrian.sofergt.BuildConfig
+com/adrian/sofergt/ComenziActivity.java
+ com.adrian.sofergt.ComenziActivity
+ com.adrian.sofergt.ComenziActivity$1
+ com.adrian.sofergt.ComenziActivity$2
+ com.adrian.sofergt.ComenziActivity$3
+com/adrian/sofergt/InternetReciver.java
+ com.adrian.sofergt.InternetReciver
+com/adrian/sofergt/objects/sms.java
+ com.adrian.sofergt.objects.sms
