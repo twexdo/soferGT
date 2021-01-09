@@ -22,15 +22,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AnulareComanda"></activity>
-
-        <service android:name=".services.FMessagingService">
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
-
-        <activity android:name=".ComenziActivity" />
 
         <service
             android:name=".services.MainService"
@@ -38,7 +29,6 @@
             android:exported="true"
             android:foregroundServiceType="location" />
 
-        <activity android:name=".communication.Acceptat" />
         <activity android:name=".communication.Action" />
 
         <receiver android:name=".InternetReciver">

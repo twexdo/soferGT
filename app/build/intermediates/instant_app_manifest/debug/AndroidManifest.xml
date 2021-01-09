@@ -35,23 +35,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.adrian.sofergt.AnulareComanda" />
-
-        <service android:name="com.adrian.sofergt.services.FMessagingService" >
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
-
-        <activity android:name="com.adrian.sofergt.ComenziActivity" />
-
         <service
             android:name="com.adrian.sofergt.services.MainService"
             android:enabled="true"
             android:exported="true"
             android:foregroundServiceType="location" />
 
-        <activity android:name="com.adrian.sofergt.communication.Acceptat" />
         <activity android:name="com.adrian.sofergt.communication.Action" />
 
         <receiver android:name="com.adrian.sofergt.InternetReciver" >

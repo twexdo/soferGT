@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\ce6d0cc2bdee254e20667baf122c3ed2\preference-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\028c8ac95068ed264f582152a2aeb1f4\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.karumi:dexter:6.2.2] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\6530f44a0be2fc2a114048000d4d94d5\jetified-dexter-6.2.2\AndroidManifest.xml:17:1-32:12
@@ -70,20 +70,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\stef\.gr
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\1d72d341c121f6f380335bc3804a8e21\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\196e87e77d5fae21c32c77ec7696f4e8\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\99723805bb26c776c4a83f8792d93ad7\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
 	package
 		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
 		INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-71:12
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:1-61:12
 		INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:2:11-69
@@ -166,7 +166,7 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Use
 	android:name
 		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:16:22-65
 application
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:18:5-69:19
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:18:5-59:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\028c8ac95068ed264f582152a2aeb1f4\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\028c8ac95068ed264f582152a2aeb1f4\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.karumi:dexter:6.2.2] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\6530f44a0be2fc2a114048000d4d94d5\jetified-dexter-6.2.2\AndroidManifest.xml:26:5-30:19
@@ -233,90 +233,68 @@ MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\
 		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:19:9-36
 	android:theme
 		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:24:9-40
-activity#com.adrian.sofergt.AnulareComanda
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:25:9-61
-	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:25:19-49
-service#com.adrian.sofergt.services.FMessagingService
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:27:9-31:19
-	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:27:18-60
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:28:13-30:29
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:29:17-78
-	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:29:25-75
-activity#com.adrian.sofergt.ComenziActivity
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:33:9-53
-	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:33:19-50
 service#com.adrian.sofergt.services.MainService
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:35:9-39:56
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:26:9-30:56
 	android:enabled
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:37:13-35
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:28:13-35
 	android:exported
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:29:13-36
 	android:foregroundServiceType
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:39:13-53
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:30:13-53
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:36:13-49
-activity#com.adrian.sofergt.communication.Acceptat
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:41:9-60
-	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:41:19-57
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:27:13-49
 activity#com.adrian.sofergt.communication.Action
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:42:9-58
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:32:9-58
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:42:19-55
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:32:19-55
 receiver#com.adrian.sofergt.InternetReciver
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:44:9-48:20
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:34:9-38:20
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:44:19-50
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:34:19-50
 intent-filter#action:name:android.intent.action.TIME_SET
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:45:13-47:29
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:35:13-37:29
 action#android.intent.action.TIME_SET
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:46:17-73
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:36:17-73
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:46:25-70
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:36:25-70
 activity#com.adrian.sofergt.ui.SettingsActivity
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:50:9-52:63
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:40:9-42:63
 	android:label
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:52:13-60
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:42:13-60
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:51:13-48
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:41:13-48
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:55:9-57:47
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:45:9-47:47
 	android:value
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:57:13-44
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:47:13-44
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:56:13-58
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:46:13-58
 activity#com.adrian.sofergt.ui.RegisterActivity
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:59:9-57
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:49:9-57
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:59:19-54
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:49:19-54
 activity#com.adrian.sofergt.ui.View_MapActivity
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:60:9-57
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:50:9-57
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:60:19-54
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:50:19-54
 activity#com.adrian.sofergt.MainActivity
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:61:9-68:20
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:51:9-58:20
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:61:19-47
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:51:19-47
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:62:13-67:29
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:52:13-57:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:63:17-69
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:63:25-66
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:53:25-66
 action#android.intent.action.VIEW
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:64:17-69
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:54:17-69
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:64:25-66
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:54:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:66:17-77
+ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:56:17-77
 	android:name
-		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:66:27-74
+		ADDED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml:56:27-74
 uses-sdk
 INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\stef\Desktop\SoferGT\app\src\main\AndroidManifest.xml
@@ -589,6 +567,14 @@ ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle
 		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:30:13-43
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:13-34:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:25-75
 meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
 ADDED from [com.google.firebase:firebase-messaging:21.0.1] C:\Users\stef\.gradle\caches\transforms-2\files-2.1\7db916be249de31ed351b41bb0610b05\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:39:13-41:85
 	android:value

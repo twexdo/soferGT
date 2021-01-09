@@ -105,7 +105,6 @@ public class SettingsActivity extends AppCompatActivity {
         save_textSUS.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (myPhoneNumber.equals("0747089167"))
                     if (edit_sus.getText().toString().length() > 5) {
                         firebaseRef = db.getReference("info");
                         firebaseRef.child("maintext").setValue(edit_sus.getText().toString());
@@ -138,7 +137,6 @@ public class SettingsActivity extends AppCompatActivity {
         save_textJOS.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (myPhoneNumber.equals("0747089167"))
                     if (edit_jos.getText().toString().length() > 5) {
                         firebaseRef = db.getReference("info");
                         firebaseRef.child("secondtext").setValue(edit_jos.getText().toString());

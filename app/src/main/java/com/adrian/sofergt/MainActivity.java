@@ -315,7 +315,6 @@ public class MainActivity extends AppCompatActivity {
         status.setBackgroundColor(Color.GRAY);
         locatie = findViewById(R.id.b_locatie);
         dezactivare = findViewById(R.id.b_dezactivare);
-        comenzi = findViewById(R.id.b_comenzi);
 
     }
 
@@ -369,13 +368,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void initButtons() {
         Log.e(TAG, "initializare butoane");
-        comenzi.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this, ComenziActivity.class);
-                startActivity(i);
-            }
-        });
+
 
         dezactivare.setOnClickListener(new View.OnClickListener() {
             @Override
